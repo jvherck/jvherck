@@ -10,7 +10,7 @@ Find my current (bigger) projects here: https://docs.jvhbots.tk/
 
 • Current project(s):  
 > [Dicebear avatar generator](https://github.com/jvherck/dicebear)
-> [![Downloads](https://static.pepy.tech/personalized-badge/dicebear?period=total&units=international_system&left_color=grey&right_color=red&left_text=Downloads)](https://jvherck.github.io/dicebear)
+> [![Downloads](https://static.pepy.tech/personalized-badge/dicebear?period=total&units=none&left_color=grey&right_color=red&left_text=Downloads)](https://jvherck.github.io/dicebear)
 
 <br />
 
