@@ -2,7 +2,7 @@
 I'm jvh and I make *custom Discord bots* and *Python API wrappers*.  
 Contact me if you want to collab!  
 
-Find my current (bigger) projects here: https://docs.jvhbots.tk/
+Find my current (bigger) projects here: https://janvh.be/portfolio
 
 • Discord: jvh#8686
 
