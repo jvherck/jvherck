@@ -1,16 +1,16 @@
 ### Hi there 👋
-I'm jvh and I make *custom Discord bots* and *Python API wrappers*.  
-Contact me if you want to collab!  
+I study Computer Science in the field of Software Development.
 
-Find my current (bigger) projects here: https://janvh.be/portfolio
+- Discord: `.jvh`
 
-• Discord: jvh#8686
+### Current project(s)
+- [Dicebear avatar generator](https://github.com/jvherck/dicebear) [![Downloads](https://static.pepy.tech/personalized-badge/dicebear?period=total&units=none&left_color=grey&right_color=red&left_text=Downloads)](https://jvherck.github.io/dicebear)
+- Small Discord projects using SQL and OpenCV
+- Django project
+- Open Source chat app
 
-<br />
+### Tools and languages
 
-• Current project(s):  
-> [Dicebear avatar generator](https://github.com/jvherck/dicebear)
-> [![Downloads](https://static.pepy.tech/personalized-badge/dicebear?period=total&units=none&left_color=grey&right_color=red&left_text=Downloads)](https://jvherck.github.io/dicebear)
 
 <br />
 
