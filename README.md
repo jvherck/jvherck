@@ -15,3 +15,4 @@ I study Computer Science in the field of Software Development.
 <br />
 
 [![https://github-readme-stats.vercel.app/api?username=jvherck&theme=nord&show_icons=true&hide=prs](https://github-readme-stats.vercel.app/api?username=jvherck&theme=nord&show_icons=true&hide=prs)](https://github.com/jvherck)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvherck&layout=compact)
