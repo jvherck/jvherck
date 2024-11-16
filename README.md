@@ -1,14 +1,12 @@
 ### Hi there 👋
-I study Computer Science in the field of Software Development.
+I study Applied Computer Science in the field of Software Development.
 
-- Discord: `holygrole`
+[https://vhjan.me](https://vhjan.me/en/)
 
 ### Current project(s)
-- [Dicebear avatar generator](https://github.com/jvherck/dicebear) [![Downloads](https://static.pepy.tech/personalized-badge/dicebear?period=total&units=none&left_color=grey&right_color=red&left_text=Downloads)](https://jvherck.github.io/dicebear)
-- Small Discord projects
+- [Dicebear avatar generator](https://github.com/jvherck/dicebear) [![Downloads](https://static.pepy.tech/personalized-badge/dicebear?period=total&units=none&left_color=grey&right_color=red&left_text=Downloads)](https://dicebear.vhjan.me)
 
 ### Tools and languages
-
 
 <br />
 
