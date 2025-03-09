@@ -4,7 +4,8 @@
 🔭 I’m currently working on several projects in Python, Go and .NET<br>🌱 I’m currently learning **.NET & Android Development (Kotlin)**<br>📫 Contact me at **jan@vhjan.me**
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vhjan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jan@vhjan.me) 
+<a href="https://linkedin.com/in/vhjan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:jan@vhjan.me" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
 
 ## 💻 Tech Stack:
 ### Languages
