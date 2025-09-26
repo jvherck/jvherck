@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Jan</h1>
 <h3 align="center">An Applied CS student from Belgium</h3>
 
-🔭 I’m currently working on several projects in Python, Go and .NET<br>🌱 I’m currently learning **.NET & Android Development (Kotlin)**<br>📫 Contact me at **jan@vhjan.me**
+🔭 I’m currently working on several projects in Python, Java and C#<br>🌱 I’m currently learning **Java Spring and React**<br>📫 Contact me at **jan@vhjan.me**
 
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/vhjan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
