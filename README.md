@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jan</h1>
 <h3 align="center">An Applied CS student from Belgium</h3>
 
-🔭 I’m currently working on several projects in Python, Java and C#<br>🌱 I’m currently learning **Java Spring and React**<br>📫 Contact me at **jan@vhjan.me**
+🔭 I’m currently working on several projects in C#, Python and Go<br>🌱 I’m currently learning **Java Spring and React**<br>📫 Contact me at **jan@vhjan.me**
 
 
 ## 🌐 Socials:
